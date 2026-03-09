@@ -30,3 +30,9 @@ Esse projeto foi proposto pela expert Michele Ambrosio da plataforma educacional
 Projeto de HMTL e CSS do clone da página do YouTube usando os conceitos de Grid Layout.
 
 Esse projeto foi proposto pela expert Michele Ambrosio da plataforma educacional DIO na Formação CSS Developer.
+
+### Desafio 04 - Construindo um Layout Responsivo Para o Site do Discord Com CSS
+
+Projeto de HMTL e CSS do clone da página do Discord usando os conceitos de responsividade e mobile first.
+
+Esse projeto foi proposto pela expert Michele Ambrosio da plataforma educacional DIO na Formação CSS Developer.
