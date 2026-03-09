@@ -21,5 +21,12 @@ Para o desafio foi apresentado pela instrutora um link no figma para ser utiliza
 
 ### Desafio 02 - Clonando a página do Youtube
 
-Projeto de HMTL e CSS do clone da página do YouTube.<br>
+Projeto de HMTL e CSS do clone da página do YouTube.
+
+Esse projeto foi proposto pela expert Michele Ambrosio da plataforma educacional DIO na Formação CSS Developer.
+
+### Desafio 03 - Reproduzindo a Listagem do YouTube com Grid Layout no CSS
+
+Projeto de HMTL e CSS do clone da página do YouTube usando os conceitos de Grid Layout.
+
 Esse projeto foi proposto pela expert Michele Ambrosio da plataforma educacional DIO na Formação CSS Developer.
