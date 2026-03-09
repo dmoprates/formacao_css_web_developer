@@ -19,4 +19,7 @@ Para o desafio foi apresentado pela instrutora um link no figma para ser utiliza
 
 [figma do projeto](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=0%3A1)
 
-### Desafio 02 - a
+### Desafio 02 - Clonando a página do Youtube
+
+Projeto de HMTL e CSS do clone da página do YouTube.<br>
+Esse projeto foi proposto pela expert Michele Ambrosio da plataforma educacional DIO na Formação CSS Developer.
