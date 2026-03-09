@@ -36,3 +36,9 @@ Esse projeto foi proposto pela expert Michele Ambrosio da plataforma educacional
 Projeto de HMTL e CSS do clone da página do Discord usando os conceitos de responsividade e mobile first.
 
 Esse projeto foi proposto pela expert Michele Ambrosio da plataforma educacional DIO na Formação CSS Developer.
+
+### Desafio 05 - Clone do Site da HBO Max
+
+ O projeto é um clone do site <a href="https://www.hbomax.com/br/pt">HBO Max</a>, com o intuito de reproduzir a interface, com algumas modificações, aplicando os temas abordados ao longo das aulas de CSS da plataforma da <a href="https://dio.me">Digital Innovation One</a>.
+
+ O clone do site HBO Max foi apresentado como desafio de código pela instrutura Michele Ambrosio, presente na formação CSS Web Developer, da Digital Inovation One.
